@@ -1,0 +1,36 @@
+{
+  "extensions": [
+    {
+      "id": "mikestead.dotenv",
+      "name": "DotEnv"
+    },
+    {
+      "id": "dbaeumer.vscode-eslint",
+      "name": "ESLint"
+    },
+    {
+      "id": "esbenp.prettier-vscode",
+      "name": "Prettier"
+    },
+    {
+      "id": "editorconfig.editorconfig",
+      "name": "Editor Config"
+    },
+    {
+      "id": "styled-components.vscode-styled-components",
+      "name": "Styled-Components"
+    },
+    {
+      "id": "ms-azuretools.vscode-docker",
+      "name": "Docker"
+    },
+    {
+      "id": "yamato-ltd.vscode-aem-sync",
+      "name": "VSCode AEM Sync"
+    },
+    {
+      "id": "wefit.wefit-snippets-aem",
+      "name": "WeFit - Snippets AEM"
+    }
+  ]
+}
